@@ -1,4 +1,4 @@
 # wineappdesign
 simple design concept
 
-permalink: /index.html
+permalink: /Index.html
